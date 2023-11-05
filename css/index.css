@@ -1174,6 +1174,8 @@ li.other-links:hover + .mega-menu,
 }
 .video .container .info ul li p:last-child{
   color: #777;
+  margin-bottom: 0;
+  padding-bottom: 10px;
 }
 .video .container .info ul li:hover{
   background-color: #fafafa;
